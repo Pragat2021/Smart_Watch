@@ -62,3 +62,8 @@ ESP32 Health Monitor
       ->Once connected, the OLED display will show real-time heart rate and SpO2 readings.
 # Email Notifications: 
       ->The system will send email notifications every 30 seconds with the current readings.
+
+------------------------------------feel free to contribute, open issues, or ask questions!-----------------------------------------------
+            email - pragatshukla11@gmail.com
+
+
