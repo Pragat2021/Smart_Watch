@@ -1,4 +1,4 @@
-ESP32 Health Monitor
+ESP32 Health Monitor based on SMTP protocol
 
 # Overview
  * The ESP32 Health Monitor is an embedded system designed to measure and report vital health metrics, specifically heart rate and blood oxygen saturation (SpO2) levels, using the MAX30100 pulse oximeter sensor. 
