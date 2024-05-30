@@ -24,14 +24,14 @@ SMTPSession smtp;
 SMTP_Message message;
 
 // Wi-Fi credentials
-const char* ssid = "Galaxy F121262";
+const char* ssid = "Oppo";
 const char* password = "123456789@";
 
 // SMTP server details
 const char* smtp_server = "smtp.gmail.com";
 const int smtp_port = 465;
-const char* smtp_user = "pragatshukla11@gmail.com";
-const char* smtp_password = "fecnnyytwxxfeeis";
+const char* smtp_user = ".......@gmail.com";
+const char* smtp_password = "fecnnyy";
 
 Session_Config session_config;
 
